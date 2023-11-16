@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Funktsioonide print(),input(), float(), int() kasutamine", "Funktsioonide print(),input(), float(), int() kasutamine.pyproj", "{FBF5D6BB-F564-47C5-B443-07085EC97DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBF5D6BB-F564-47C5-B443-07085EC97DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF5D6BB-F564-47C5-B443-07085EC97DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0584898-3C18-4A0A-BD15-F225EDBF435E}
+	EndGlobalSection
+EndGlobal
